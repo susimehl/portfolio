@@ -1,0 +1,67 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    font-family: sans-serif;
+    background-color: #d3a5f4;
+    font-size: 20px;
+
+   /* background: -moz-radial-gradient(0% 2%, circle, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), -moz-radial-gradient(100% 100%, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), none;
+    background: -webkit-radial-gradient(0% 2%, circle, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), -webkit-radial-gradient(100% 100%, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), none;
+    background: -ms-radial-gradient(0% 2%, circle, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), -ms-radial-gradient(100% 100%, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), none;
+    background: -o-radial-gradient(0% 2%, circle, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), -o-radial-gradient(100% 100%, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), none;
+    background: radial-gradient(0% 2%, circle, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), radial-gradient(100% 100%, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), none;
+    background-size: 20px 20px;*/
+   
+    
+
+}
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold' ;
+    font-size: 50px;
+    font-stretch: ultra-expanded;
+    font-style: italic;
+    font-variant: small-caps slashed-zero;
+    text-shadow: 5px 5px 5px rgb(124, 235, 39); 
+    color:rgb(128, 9, 254)
+
+}
+#score {
+    font-variant-numeric: tabular-nums;
+    font-family: Impact, 'Arial Narrow Bold' ;
+    font-style: italic;
+    font-stretch: ultra-expanded;
+    /*display: flex;
+    background-color:rgb(124, 235, 39);
+    border-radius: 1.0em;
+    padding: 10px;*/
+    color:aliceblue
+ }
+
+ /*.patterns {
+    width: 60vw;
+    height: 10vw;
+    }
+    
+    .pt1 {
+    background: -moz-radial-gradient(0% 2%, circle, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), -moz-radial-gradient(100% 100%, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), none;
+    background: -webkit-radial-gradient(0% 2%, circle, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), -webkit-radial-gradient(100% 100%, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), none;
+    background: -ms-radial-gradient(0% 2%, circle, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), -ms-radial-gradient(100% 100%, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), none;
+    background: -o-radial-gradient(0% 2%, circle, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), -o-radial-gradient(100% 100%, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), none;
+    background: radial-gradient(0% 2%, circle, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), radial-gradient(100% 100%, rgba(96, 16, 48, 0) 9px, #661133 10px, rgba(96, 16, 48, 0) 11px), none;
+    background-size: 20px 20px;
+    }
+
+    canvas {
+        padding-top:  50px;
+        padding-bottom: 80px;
+    }*/
+
+    canvas{
+        border-radius: 13em;
+        border-style : dotted;
+        border-color: aquamarine;
+
+    }
+    
