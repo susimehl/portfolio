@@ -3,7 +3,7 @@ const game = new Game ()
 let soundFile;
 let soundIsPlaying = false
 
-let mySound = new Audio("assets/music/Spinningout.wav")
+// let mySound = new Audio("assets/music/Spinningout.wav")
 function preload(){
     game.preload()
     soundFile = loadSound('assets/music/Spinningout.wav')
