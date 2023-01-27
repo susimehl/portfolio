@@ -10,9 +10,9 @@ class Game {
 
 
 preload(){
-    this.backgroundImage = loadImage("./assets/background/lila1.gif")
-    this.playerImage = loadImage("./assets/player/waechter-20.png")
-    this.sunflowerImage = loadImage("./assets/sunflower/SunflowerFlowerHead.png")
+    this.backgroundImage = loadImage("assets/background/lila1.gif")
+    this.playerImage = loadImage("assets/player/waechter-20.png")
+    this.sunflowerImage = loadImage("assets/sunflower/SunflowerFlowerHead.png")
 }
 
 draw(){
